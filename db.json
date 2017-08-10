@@ -1,19 +1,21 @@
 {
-  "FACT": [
-    "My Name is Faisal",
-    "My Name is Hamza",
-    "My Name is Jafar"
-  ],
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "FACT": {
+    "version": "1.0",
+    "response": {
+      "outputSpeech": {
+        "type": "SSML",
+        "ssml": "<speak> Hear is fact: Faisal Sharif</speak>"
+      },
+      "card": {
+        "content": "Jupiter has the shorter day",
+        "title": "Space facts",
+        "type": "Simple"
+      },
+      "shouldEndSession": true,
+      
+    },
+    "sessionAttributes": {
+      
+    }
   }
 }
