@@ -1,4 +1,9 @@
 {
+  "FACT": [
+    "My Name is Faisal",
+    "My Name is Hamza",
+    "My Name is Jafar"
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
