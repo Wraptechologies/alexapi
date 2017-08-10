@@ -1,19 +1,6 @@
 {
   "FACT": {
     "version": "1.0",
-    "response": {
-      "outputSpeech": {
-        "type": "SSML",
-        "ssml": "<speak> Hear is fact: Faisal Sharif</speak>"
-      },
-      "card": {
-        "content": "Jupiter has the shorter day",
-        "title": "Space facts",
-        "type": "Simple"
-      },
-      "shouldEndSession": true
-      
-    },
     "sessionAttributes": ""
   }
 }
