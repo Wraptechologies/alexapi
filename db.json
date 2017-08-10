@@ -11,11 +11,9 @@
         "title": "Space facts",
         "type": "Simple"
       },
-      "shouldEndSession": true,
+      "shouldEndSession": true
       
     },
-    "sessionAttributes": {
-      
-    }
+    "sessionAttributes": ""
   }
 }
